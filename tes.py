@@ -21,4 +21,3 @@ data_pandas = pd.DataFrame(data)
 display(data_pandas)
 #select all rows with an age column greater than 30
 display(data_pandas[data_pandas.age > 30])
- 
